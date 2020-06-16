@@ -13,15 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: अर्थशाला
+subtitle: Things about money
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Explore the world of commerce
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -58,34 +55,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "शिवानी शर्मा"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Chartered Accountant#Empath#LoverofLand&Ocean#CoffeeDrinker"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/shivani-sharma-9b6987114/"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/sharma.shivanishr"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/shivaniii_hs"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/shivani-sharma-9b6987114/"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/sharma.shivanishr"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/shivaniii_hs"
 
 defaults:
   # _posts
