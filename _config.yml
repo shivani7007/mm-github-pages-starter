@@ -18,7 +18,7 @@ subtitle: Things about money
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the world of commerce
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "शिवानी शर्मा"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Chartered Accountant#Empath#LoverofLand&Ocean#CoffeeDrinker"
+  bio    : "Chartered Accountant #Empath #LoverofLand&Ocean #CoffeeDrinker"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
